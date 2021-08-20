@@ -27,13 +27,16 @@ education:
   courses:
   - course: Ph.D. in Mechanical Manufacturing and Automation
     institution: University of Chinese Academy of Sciences
-    year: 2016 - 2022
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+    year: 2018 - 2022
+  - course: Visiting Ph.D. in Mechanical Manufacturing and Automation
+    institution: École Polytechnique Fédérale de Lausanne
+    year: 2021 - 2022
+  - course: MEng in Mechanical Manufacturing and Automation
+    institution: University of Chinese Academy of Sciences
+    year: 2016 - 2018
+  - course: BSc in Mechanical Manufacturing and Automation
+    institution: Shenyang Agricultural University
+    year: 2011 - 2015
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
