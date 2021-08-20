@@ -25,8 +25,8 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: Ph.D. in Mechanical Manufacturing and Automation, advisor: Professor Liang Guo
-    institution: Changchun Institute of Optics, Fine Mechanics and Physics, Chinese Academy of Sciences & University of Chinese Academy of Sciences
+  - course: Ph.D. in Mechanical Manufacturing and Automation
+    institution: University of Chinese Academy of Sciences
     year: 2016 - 2022
   - course: MEng in Artificial Intelligence
     institution: Massachusetts Institute of Technology
