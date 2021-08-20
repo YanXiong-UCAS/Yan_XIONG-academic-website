@@ -45,10 +45,10 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '/#contact'
+  link: mailto:xiongyan_scholar@yeah.net
 - icon: orcid
   icon_pack: fab
-  link: https://www.researchgate.net/profile/Yan-Xiong-2
+  link: https://orcid.org/my-orcid?orcid=0000-0002-2689-1249
 - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fas
   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
