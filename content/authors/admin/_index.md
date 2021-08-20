@@ -26,7 +26,6 @@ interests:
 education:
   courses:
   - course: Ph.D. in Mechanical Manufacturing and Automation
-    Intelligent Thermal Control Based on Deep Reinforcement Learning for Space Load
     institution: University of Chinese Academy of Sciences
     year: 2018 - 2022
   - course: Visiting Ph.D. in Mechanical Manufacturing and Automation
@@ -47,15 +46,15 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '/#contact'
-- icon: twitter
+- icon: research
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://www.researchgate.net/profile/Yan-Xiong-2
 - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fas
   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/YanXiong-UCAS
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/
