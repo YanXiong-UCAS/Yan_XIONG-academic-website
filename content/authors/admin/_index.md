@@ -14,7 +14,7 @@ organizations:
   url: https://www.ucas.ac.cn/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Dr. Yan Xiong is currently a Ph.D. student from the University of Chinese Academy of Sciences, P.R. China, sponsored by both the China Scholarship Council and EPFL, studying at EPFL as a visiting Ph.D. student. . His main research forcus on intelligent control of gyroscopes using model-based reinforcement learning, intelligent thermal control based on deep reinforcement learning for space load, and engineering applications of AI, such as robotic systems, spacecraft strategic planning, etc.
 
 # Interests to show in About widget
 interests:
