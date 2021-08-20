@@ -1,12 +1,12 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Yan XIONG (熊琰)
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Ph.D. student from the University of Chinese Academy of Sciences
 
 # Organizations/Affiliations to show in About widget
 organizations:
