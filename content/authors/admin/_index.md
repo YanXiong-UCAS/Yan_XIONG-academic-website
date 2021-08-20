@@ -27,8 +27,7 @@ education:
   courses:
   - course: Ph.D. in Mechanical Manufacturing and Automation, advisor: Professor Liang Guo
     institution: Changchun Institute of Optics, Fine Mechanics and Physics, Chinese Academy of Sciences & University of Chinese Academy of Sciences
-    dissertation: Intelligent Thermal Control Based on Deep Reinforcement Learning for Space Load
-    year: 2012
+    year: 2016 - 2022
   - course: MEng in Artificial Intelligence
     institution: Massachusetts Institute of Technology
     year: 2009
