@@ -26,6 +26,7 @@ interests:
 education:
   courses:
   - course: Ph.D. in Mechanical Manufacturing and Automation
+    Intelligent Thermal Control Based on Deep Reinforcement Learning for Space Load
     institution: University of Chinese Academy of Sciences
     year: 2018 - 2022
   - course: Visiting Ph.D. in Mechanical Manufacturing and Automation
