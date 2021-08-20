@@ -46,7 +46,7 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '/#contact'
-- icon: researchgate
+- icon: orcid
   icon_pack: fab
   link: https://www.researchgate.net/profile/Yan-Xiong-2
 - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
