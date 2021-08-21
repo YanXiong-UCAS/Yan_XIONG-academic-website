@@ -1,5 +1,5 @@
 ---
-title: "Intelligent Thermal Control Strategy Based on Reinforcement Learning for Space Telescope"
+title: "Application of Deep Reinforcement Learning to Thermal Control of Space Telescope"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
@@ -7,8 +7,7 @@ title: "Intelligent Thermal Control Strategy Based on Reinforcement Learning for
 authors:
 - admin
 - Liang Guo
-- Yong Huang
-- Liheng Chen
+- Defu Tian
 
 
 # Author notes (optional)
@@ -16,10 +15,9 @@ author_notes:
 - "First Author"
 - "Corresponding author"
 - "Co-Author"
-- "Co-Author"
 
 date: "2020-01-01T00:00:00Z"
-doi: "10.2514/1.T5774"
+doi: "10.1115/1.4051072"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2020-01-01T00:00:00Z"
@@ -34,10 +32,10 @@ publication_types: ["2"]
 publication: Journal of Thermophysics and Heat Transfer
 publication_short: In *JTHT*
 
-abstract: In this study, a thermal model of a space telescope is established in Simulink. An intelligent autonomous thermal control strategy based on actor-critic reinforcement learning (RL) for proportional–integral–derivative (PID) parameter adaptive self-tuning, called RL PID, is proposed. This control strategy enables the PID thermal controller to adaptively tune the PID parameters to achieve stable and precise temperature control. A single radial basis function (RBF) neural network is applied to simultaneously approximate the strategy function of the actor and the value function of the critic. The actor maps the system state to PID parameters, and the critic evaluates the output of the actor and generates a temporal difference (TD) error. Based on the architecture of the actor-critic RL algorithm and the TD error performance index, a design flow chart of RL PID is made. Both theoretical and experimental results show that RL PID can achieve a temperature control precision of 0.01°C, and that the steady-state error is reduced by 50 and 75% in the simulation and 50 and 67% in the experiment compared with those of the traditional PID controller and the traditional switch controller, respectively. RL PID has better reliability, more robustness, and a faster response.
+abstract: With the development of deep space exploration technology, thermal control systems for space telescopes are becoming increasingly complex, leading to the key parameters of conventional thermal control systems are difficult to adjust online automatically. To achieve these adjustments, this paper provided detailed verification of the application of deep reinforcement learning to space telescope thermal control from three perspectives: thermophysical modelling, intelligent sensing-based radiator, and online self-tuning of thermal control parameters. The paper presents a high-speed and high-precision thermophysical modelling strategy in MATLAB/SIMULINK with better computational efficiency than conventional approaches. And an intelligent sensing-based radiator is proposed that can realize autonomous regulation of the radiating cold plate by sensing the external space environment and the thermal load inside the spacecraft. A strategy for online self-tuning of the thermal control parameters based on deep reinforcement learning is also proposed. Theoretical and experimental results show that deep reinforcement learning thermal control (DRLPID) can achieve temperature control accuracy of 0.05°C. The steady-state errors in the simulations were reduced by 22.7%, 37.4%, and 47.4% when compared with the reinforcement learning proportional-integral-derivative (PID), the neural network PID and the fuzzy PID, respectively. The experimental steady-state errors were reduced by 20.4%, 32.5% and 42.7%, respectively.
 
 # Summary. An optional shortened abstract.
-summary: An intelligent autonomous thermal control strategy based on actor-critic reinforcement learning (RL) for proportional–integral–derivative (PID) parameter adaptive self-tuning, called RL PID, is proposed.
+summary: This paper provided detailed verification of the application of deep reinforcement learning to space telescope thermal control from three perspectives: thermophysical modelling, intelligent sensing-based radiator, and online self-tuning of thermal control parameters.
 
 tags: []
 
@@ -61,7 +59,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Architecture: [**RL PID**](featured.jpg)'
+  caption: 'Diagram: [**PID based on DDPG**](featured.jpg)'
   focal_point: ""
   preview_only: false
 
