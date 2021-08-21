@@ -7,16 +7,14 @@ title: "Intelligent Thermal Control Algorithm Based on Deep Deterministic Policy
 authors:
 - admin
 - Liang Guo
-- Honglinag Wang
 - Yong Huang
-- Chunlong Liu
+- Liheng Chen
 
 
 # Author notes (optional)
 author_notes:
 - "First Author"
 - "Corresponding author"
-- "Co-Author"
 - "Co-Author"
 - "Co-Author"
 
