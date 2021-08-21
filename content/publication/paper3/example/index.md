@@ -1,5 +1,5 @@
 ---
-title: "Intelligent Thermal Control Strategy Based on Reinforcement Learning for Space Telescope"
+title: "Intelligent Optimization Strategy Based on Statistical Machine Learning for Spacecraft Thermal Design"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
@@ -7,8 +7,9 @@ title: "Intelligent Thermal Control Strategy Based on Reinforcement Learning for
 authors:
 - admin
 - Liang Guo
-- Yong Huang
-- Liheng Chen
+- Defu Tian
+- Yang Zhang
+- Chunlong Liu
 
 
 # Author notes (optional)
@@ -17,12 +18,13 @@ author_notes:
 - "Corresponding author"
 - "Co-Author"
 - "Co-Author"
+- "Co-Author"
 
-date: "2020-01-01T00:00:00Z"
-doi: "10.2514/1.T5774"
+date: "2020-11-06T00:00:00Z"
+doi: "10.1109/ACCESS.2020.3036548"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2020-01-01T00:00:00Z"
+publishDate: "2020-11-06T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -31,13 +33,13 @@ publishDate: "2020-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: Journal of Thermophysics and Heat Transfer
-publication_short: In *JTHT*
+publication: IEEE Access
+publication_short: In *IEEE Access*
 
-abstract: In this study, a thermal model of a space telescope is established in Simulink. An intelligent autonomous thermal control strategy based on actor-critic reinforcement learning (RL) for proportional–integral–derivative (PID) parameter adaptive self-tuning, called RL PID, is proposed. This control strategy enables the PID thermal controller to adaptively tune the PID parameters to achieve stable and precise temperature control. A single radial basis function (RBF) neural network is applied to simultaneously approximate the strategy function of the actor and the value function of the critic. The actor maps the system state to PID parameters, and the critic evaluates the output of the actor and generates a temporal difference (TD) error. Based on the architecture of the actor-critic RL algorithm and the TD error performance index, a design flow chart of RL PID is made. Both theoretical and experimental results show that RL PID can achieve a temperature control precision of 0.01°C, and that the steady-state error is reduced by 50 and 75% in the simulation and 50 and 67% in the experiment compared with those of the traditional PID controller and the traditional switch controller, respectively. RL PID has better reliability, more robustness, and a faster response.
+abstract: The thermal design of spacecraft becomes increasingly complicated as various advanced technologies are continuously introduced to the spacecraft. Determining and optimizing the uncertainties of a spacecraft thermal control system through global sensitivity analysis has long been an essential task for thermal engineers. It is a difficult task that relies heavily on engineering experience and is a time-intensive, trial-and-error endeavor that may not even lead to global optimization. Hence, an intelligent optimization strategy based on statistical machine learning for spacecraft thermal design, called IOSML, is proposed. An intelligent batch processing system (IBPS) based on MATLAB, Python, and NX/TMG real-time data interaction is designed. The IBPS uses a surrogate model to reduce the computational cost of global sensitivity analysis while using a detailed thermal mathematical model to maintain accuracy. We combine a Bayesian inference framework with a neural network surrogate spacecraft-thermophysical model that is $100\times $ faster than numerical solvers. This article first reports on a density-based global sensitivity analysis that evaluates the effect of design parameters on the temperature difference between the complementary metal–oxide–semiconductor and cold screen of the Lehman Alpha Solar Space Telescope detector. From 42 design parameters, the most sensitive four are selected for optimization, and the temperature difference and the boundary temperature are used as the objective function. Adopting IOSML, under no supervision, four design parameters are optimized through the IBPS, and the effectiveness of the algorithm is verified by comparison with traditional methods. Additionally, IOSML is versatile and can be used in various complex engineering applications to provide guidance for the better selection of appropriate parameters and optimization.
 
 # Summary. An optional shortened abstract.
-summary: An intelligent autonomous thermal control strategy based on actor-critic reinforcement learning (RL) for proportional–integral–derivative (PID) parameter adaptive self-tuning, called RL PID, is proposed.
+summary: An intelligent optimization strategy based on statistical machine learning for spacecraft thermal design, called IOSML, is proposed.
 
 tags: []
 
