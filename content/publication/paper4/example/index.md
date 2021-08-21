@@ -33,7 +33,7 @@ publication_types: ["2"]
 publication: Journal of Thermal Science and Engineering Applications
 publication_short: In *JTSEA*
 
-abstract: With the development of deep space exploration technology, thermal control systems for space telescopes are becoming increasingly complex, leading to the key parameters of conventional thermal control systems are difficult to adjust online automatically. on MATLAB, Python, and NX/TMG real-time data interaction is designed. The IBPS uses a surrogate model to reduce the computational cost of global sensitivity analysis while using a detailed thermal mathematical model to maintain accuracy. We combine a Bay。To achieve these adjustments, this paper provided detailed verification of the application of deep reinforcement learning to space telescope thermal control from three perspectives: thermophysical modelling, intelligent sensing-based radiator, and online self-tuning of thermal control parameters.什么鬼？？？
+abstract: With the development of deep space exploration technology, thermal control systems for space telescopes are becoming increasingly complex, leading to the key parameters of conventional thermal control systems are difficult to adjust online automatically. on MATLAB, Python, and NX/TMG real-time data interaction is designed. The IBPS uses a surrogate model to reduce the computational cost of global sensitivity analysis while using a detailed thermal mathematical model to maintain accuracy. We combine a Bay。什么鬼？？？
 
 # Summary. An optional shortened abstract.
 summary: This paper provided detailed verification of the application of deep reinorcement learning to space telescope thermal control from three perspectives.
