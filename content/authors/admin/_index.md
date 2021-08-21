@@ -61,9 +61,6 @@ social:
 - icon: skype
   icon_pack: fab
   link: https://www.linkedin.com/in/yan-xiong-364732101/
-- icon: weixin
-  icon_pack: fab
-  link: https://www.linkedin.com/in/yan-xiong-364732101/
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/yan-xiong-364732101/
