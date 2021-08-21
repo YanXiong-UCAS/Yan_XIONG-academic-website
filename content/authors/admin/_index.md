@@ -14,7 +14,13 @@ organizations:
   url: https://www.ucas.ac.cn/
 
 # Short bio (displayed in user profile at end of posts)
-bio: Dr. Yan Xiong is currently a Ph.D. student from the University of Chinese Academy of Sciences, P.R. China, sponsored by both the China Scholarship Council and EPFL, studying at EPFL as a visiting Ph.D. student. . His main research forcus on intelligent control of gyroscopes using model-based reinforcement learning, intelligent thermal control based on deep reinforcement learning for space load, and engineering applications of AI, such as robotic systems, spacecraft strategic planning, etc.
+bio: Yan Xiong, Ph.D. 
+University of Chinese Academy of Sciences 
+Changchun Institute of Optics, Fine Mechanics and Physics, Chinese Academy of Sciences 
+Tel: +86 13610833262 
+E-mail: xiongyan16@mails.ucas.ac.cn
+ResearchGate: https://www.researchgate.net/profile/Yan_Xiong35 
+ORCID: https://orcid.org/0000-0002-2689-1249 
 
 # Interests to show in About widget
 interests:
