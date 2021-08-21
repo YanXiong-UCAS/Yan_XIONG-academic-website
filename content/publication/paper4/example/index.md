@@ -33,7 +33,7 @@ publication_types: ["2"]
 publication: Journal of Thermal Science and Engineering Applications
 publication_short: In *JTSEA*
 
-abstract: With the development of deep space exploration technology, thermal control systems for space telescopes are becoming increasingly complex, leading to the key parameters of conventional thermal control systems are difficult to adjust online automatically. To achieve these adjustments, this paper provided detailed verification of the application of deep reinforcement learning to space telescope thermal control from three perspectives: thermophysical modeling, intelligent sensing-based radiator, and online self-tuning of thermal control parameters.
+abstract: The thermal design of spacecraft becomes increasingly complicated as various advanced technologies are continuously introduced to the spacecraft. 
 
 # Summary. An optional shortened abstract.
 summary: This paper provided detailed verification of the application of deep reinorcement learning to space telescope thermal control from three perspectives.
