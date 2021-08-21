@@ -18,11 +18,11 @@ author_notes:
 - "Co-Author"
 - "Co-Author"
 
-date: "2020-01-01T00:00:00Z"
-doi: "10.2514/1.T5774"
+date: "2020-05-11T00:00:00Z"
+doi: "10.2514/1.T5951"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2020-01-01T00:00:00Z"
+publishDate: "2020-05-11T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
