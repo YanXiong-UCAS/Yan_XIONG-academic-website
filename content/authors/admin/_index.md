@@ -83,4 +83,6 @@ Dr. Yan Xiong is currently a Ph.D. student from the University of Chinese Academ
 
 熊琰博士目前是中国科学院大学的博士生，由国家留学基金委和瑞士洛桑联邦理工学院共同资助，作为访问博士生在瑞士洛桑联邦理工学院学习。他的主要研究方向为基于模型的强化学习的陀螺仪智能控制，基于深度强化学习的空间载荷智能热控制，以及人工智能的工程应用，如机器人系统、航天器战略规划等。
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume_en.pdf" "newtab" >}}CV_en{{< /staticref >}}.   {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume_cn.pdf" "newtab" >}}CV_en{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume_en.pdf" "newtab" >}}CV_en{{< /staticref >}}.   
+
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume_cn.pdf" "newtab" >}}CV_cn{{< /staticref >}}.
