@@ -18,7 +18,7 @@ author_notes:
 
 
 date: "2021-06-17T00:00:00Z"
-doi: "10.1115/1.4051072"
+doi: "10.1109/ACCESS.2020.3036548"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2021-06-17T00:00:00Z"
