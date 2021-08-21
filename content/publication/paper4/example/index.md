@@ -33,7 +33,7 @@ publication_types: ["2"]
 publication: Journal of Thermal Science and Engineering Applications
 publication_short: In *JTSEA*
 
-abstract: The thermal design of spacecraft becomes.
+abstract: With  the development of The thermal design of spacecraft becomes.
 
 # Summary. An optional shortened abstract.
 summary: This paper provided detailed verification of the application of deep reinorcement learning to space telescope thermal control from three perspectives.
