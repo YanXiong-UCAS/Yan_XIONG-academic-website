@@ -30,8 +30,8 @@ address:
   country: P.R. China
   country_code: CHN
 coordinates:
-  latitude: '37.4275'
-  longitude: '-122.1697'
+  latitude: '43.85191297342314'
+  longitude: '125.40745052563048'
 directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
 office_hours:
   - 'Monday-Fridy 10:00 to 13:00'
@@ -140,7 +140,7 @@ search:
     index_name: ''
     show_logo: false
 map:
-  provider: ''
+  provider: google
   api_key: ''
   zoom: 15
 marketing:
