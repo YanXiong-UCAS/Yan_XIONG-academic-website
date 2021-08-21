@@ -12,7 +12,7 @@ copyright: '© 2013-2021 Maintained by Yan XIONG' # Footer text, e.g. '© {year}
 ############################
 
 defaultContentLanguage: en
-hasCJKLanguage: false
+hasCJKLanguage: true
 defaultContentLanguageInSubdir: false
 removePathAccents: true
 
