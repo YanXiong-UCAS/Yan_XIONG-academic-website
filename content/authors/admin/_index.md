@@ -79,7 +79,7 @@ email: ""
 highlight_name: false
 ---
 
-Dr. Yan Xiong is currently a Ph.D. student from the University of Chinese Academy of Sciences, P.R. China, sponsored by both the China Scholarship Council and EPFL, studying at EPFL as a visiting Ph.D. student. . His main research forcus on intelligent control of gyroscopes using model-based reinforcement learning, intelligent thermal control based on deep reinforcement learning for space load, and engineering applications of AI, such as robotic systems, spacecraft strategic planning, etc.
+Dr. Yan Xiong is currently a Ph.D. student from the University of Chinese Academy of Sciences, P.R. China, sponsored by both the China Scholarship Council and EPFL, studying at EPFL as a visiting Ph.D. student. His main research forcus on intelligent control of gyroscopes using model-based reinforcement learning, intelligent thermal control based on deep reinforcement learning for space load, and engineering applications of AI, such as robotic systems, spacecraft strategic planning, etc.
 
 熊琰博士目前是中国科学院大学的博士生，由国家留学基金委和瑞士洛桑联邦理工学院共同资助，作为访问博士生在瑞士洛桑联邦理工学院学习。他的主要研究方向为基于模型的强化学习的陀螺仪智能控制，基于深度强化学习的空间载荷智能热控制，以及人工智能的工程应用，如机器人系统、航天器战略规划等。
 
