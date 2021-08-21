@@ -32,7 +32,7 @@ address:
 coordinates:
   latitude: '43.85191297342314'
   longitude: '125.40745052563048'
-directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
+directions: Enter Building Daheng and take the stairs to Office 303 on Floor 3
 office_hours:
   - 'Monday-Fridy 10:00 to 13:00'
 appointment_url: 'https://calendly.com'
@@ -94,7 +94,7 @@ show_related:
   project: true
   publication: true
   event: true
-reading_time: false
+reading_time: true
 section_pager: false
 docs_section_pager: true
 sharing: true
