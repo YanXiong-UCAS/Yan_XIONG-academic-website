@@ -21,12 +21,12 @@ twitter: ''
 # Contact (edit or remove options as required)
 
 email: xiongyan_scholar@yeah.net
-phone: 888 888 88 88
+phone: +41 0792604766
 address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
+  street: No.3888 Dong Nanhu Road
+  city: Changchun
+  region: Jilin
+  postcode: '130033'
   country: P.R. China
   country_code: CHN
 coordinates:
@@ -34,8 +34,7 @@ coordinates:
   longitude: '-122.1697'
 directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
 office_hours:
-  - 'Monday 10:00 to 13:00'
-  - 'Wednesday 09:00 to 10:00'
+  - 'Monday-Fridy 10:00 to 13:00'
 appointment_url: 'https://calendly.com'
 contact_links:
   - icon: twitter
