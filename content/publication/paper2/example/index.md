@@ -20,11 +20,11 @@ author_notes:
 - "Co-Author"
 - "Co-Author"
 
-date: "2020-05-11T00:00:00Z"
-doi: "10.2514/1.T5951"
+date: "2020-01-01T00:00:00Z"
+doi: "10.2514/1.T5774"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2020-05-11T00:00:00Z"
+publishDate: "2020-01-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -34,7 +34,7 @@ publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: Journal of Thermophysics and Heat Transfer
-publication_short: *JTHT*
+publication_short: In *JTHT*
 
 abstract: In practical applications, the control parameters of a proportional integral derivative (PID) thermal controller are difficult to self-tuning online. As the control object or environment changes, the control parameters are required to change accordingly. An intelligent thermal controller based on the deep deterministic policy gradient, called DRLTC, is proposed. Two types of reinforcement learning agents were designed in DRLTC, which can automatically adjust the control parameters of the thermal controllers and self-optimize online after training. Both theoretical and experimental results revealed that, when the control object was the main mirror support, the DRLTC achieved a control precision of 0.01 °C. Additionally, the steady-state error was reduced by 40.2%, 62.5%, and 33.3% in the simulation, and by 5.6%, 80.6%, and 85.7% in the experiment, compared with the reinforcement learning PID, neural network PID, and Fuzzy PID, respectively. When the control object was changed to the main mirror installation, the DRLTC achieved a control precision of 0.02 °C, and the steady-state error was reduced by 87.5%, 91.7%, and 90.9% in the simulation, and by 80.2%, 90.6%, and 85.7% in the experiment, compared with the above-mentioned thermal control strategies, respectively. Therefore, the DRLTC has better universality, stronger robustness, and achieve more energy saving.
 
