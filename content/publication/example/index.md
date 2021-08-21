@@ -6,6 +6,9 @@ title: "Intelligent Thermal Control Strategy Based on Reinforcement Learning for
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - admin
+- Liang Guo
+- Yong Huang
+- Liheng Chen
 
 
 # Author notes (optional)
@@ -14,7 +17,7 @@ author_notes:
 - "Equal contribution"
 
 date: "2020-01-01T00:00:00Z"
-doi: ""
+doi: "10.2514/1.T5774"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2020-01-01T00:00:00Z"
@@ -44,7 +47,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'xiong2019.pdf'
+url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''
