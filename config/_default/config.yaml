@@ -29,7 +29,7 @@ module:
 ## ADVANCED
 ############################
 
-enableGitInfo: True
+enableGitInfo: false
 summaryLength: 30
 paginate: 10
 enableEmoji: true
