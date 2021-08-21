@@ -33,7 +33,7 @@ publication_types: ["2"]
 publication: Journal of Thermal Science and Engineering Applications
 publication_short: In *JTSEA*
 
-abstract: With the development of deep space exploration technology, thermal control systems for space telescopes are becoming increasingly complex, leading to the key parameters of conventional thermal control systems are difficult to adjust online automatically. 什么鬼？？？The thermal design of spacecraft becomes.
+abstract: With the development of deep space exploration technology, thermal control systems for space telescopes are becoming increasingly complex, leading to the key parameters of conventional thermal control systems are difficult to adjust online automatically. 什么鬼？？？
 
 # Summary. An optional shortened abstract.
 summary: This paper provided detailed verification of the application of deep reinorcement learning to space telescope thermal control from three perspectives.
