@@ -44,7 +44,7 @@ summary: An intelligent thermal controller based on the deep deterministic polic
 tags: []
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Custom links (uncomment lines below)
 # links:
