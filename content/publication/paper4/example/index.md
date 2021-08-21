@@ -16,11 +16,11 @@ author_notes:
 - "Corresponding author"
 - "Co-Author"
 
-date: "2020-01-01T00:00:00Z"
+date: "2021-06-17T00:00:00Z"
 doi: "10.1115/1.4051072"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2020-01-01T00:00:00Z"
+publishDate: "2021-06-17T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -29,8 +29,8 @@ publishDate: "2020-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: Journal of Thermophysics and Heat Transfer
-publication_short: In *JTHT*
+publication: Journal of Thermal Science and Engineering Applications
+publication_short: In *JTSEA*
 
 abstract: With the development of deep space exploration technology, thermal control systems for space telescopes are becoming increasingly complex, leading to the key parameters of conventional thermal control systems are difficult to adjust online automatically. To achieve these adjustments, this paper provided detailed verification of the application of deep reinforcement learning to space telescope thermal control from three perspectives: thermophysical modelling, intelligent sensing-based radiator, and online self-tuning of thermal control parameters. The paper presents a high-speed and high-precision thermophysical modelling strategy in MATLAB/SIMULINK with better computational efficiency than conventional approaches. And an intelligent sensing-based radiator is proposed that can realize autonomous regulation of the radiating cold plate by sensing the external space environment and the thermal load inside the spacecraft. A strategy for online self-tuning of the thermal control parameters based on deep reinforcement learning is also proposed. Theoretical and experimental results show that deep reinforcement learning thermal control (DRLPID) can achieve temperature control accuracy of 0.05°C. The steady-state errors in the simulations were reduced by 22.7%, 37.4%, and 47.4% when compared with the reinforcement learning proportional-integral-derivative (PID), the neural network PID and the fuzzy PID, respectively. The experimental steady-state errors were reduced by 20.4%, 32.5% and 42.7%, respectively.
 
