@@ -6,7 +6,7 @@ title: "Intelligent Thermal Control Strategy Based on Reinforcement Learning for
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - admin
-- Robert Ford
+
 
 # Author notes (optional)
 author_notes:
@@ -44,7 +44,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
+url_pdf: 'xiong2019.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
