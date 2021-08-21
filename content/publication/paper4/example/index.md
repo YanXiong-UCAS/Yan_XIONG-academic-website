@@ -60,7 +60,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Performance: [**Bayesian**](featured.jpg)'
+  caption: 'Diagram: [**PID based on DDPG**](featured.jpg)'
   focal_point: ""
   preview_only: false
 
