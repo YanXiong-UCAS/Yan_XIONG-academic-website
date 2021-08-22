@@ -30,11 +30,10 @@ image:
 
 authors:
 - admin
-- 吳恩達
 
 tags:
-- Academic
-- 开源
+- Tutorial for Website design
+- Academic Website
 
 categories:
 - Demo
