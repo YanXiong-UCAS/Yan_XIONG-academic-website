@@ -26,6 +26,8 @@ summary: IEEE Transactions on Aerospace and Electronic Systems (under review).
 tags:
 - Spacecraft Thermal Design
 - Machine Learning
+- Deep Reinforcement Learning
+- Python
 - Space Telescope
 - Surrogate Model
 featured: false

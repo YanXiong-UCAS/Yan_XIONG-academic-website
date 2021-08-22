@@ -27,6 +27,7 @@ tags:
 - Soft Sensor
 - Measured
 - Space Telescope
+- Machine Learning
 featured: false
 
 links:

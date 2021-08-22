@@ -26,6 +26,8 @@ summary: International Journal of Heat and Mass Transfer (under review).
 tags:
 - Surrogate Model
 - Deep Learning
+- Transfer Learning
+- Machine Learning
 - Space Telescope
 - Thermo-physical Model
 featured: false

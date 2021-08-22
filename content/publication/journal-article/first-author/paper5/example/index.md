@@ -46,6 +46,7 @@ tags:
 - Machine Learning
 - MATLAB
 - NX/TMG
+- Python
 # Display this page in the Featured widget?
 featured: true
 

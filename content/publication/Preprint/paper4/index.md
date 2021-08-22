@@ -25,6 +25,7 @@ summary: Journal  of  Astronomical  Telescopes,  Instruments,  and Systems (unde
 
 tags:
 - Machine Learning
+- Surrogate Model
 - Spacecraft Thermal Design
 - Space Telescope
 featured: false
