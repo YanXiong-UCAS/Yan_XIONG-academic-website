@@ -46,6 +46,7 @@ tags:
 - Spacecraft Thermal Design
 - Space Telescope
 - Bayesian Optimization
+- Surrogate Model
 # Display this page in the Featured widget?
 featured: false
 
