@@ -43,24 +43,24 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
+- icon: github
+  icon_pack: fab
+  link: https://github.com/YanXiong-UCAS
 - icon: orcid
   icon_pack: fab
   link: https://orcid.org/my-orcid?orcid=0000-0002-2689-1249
 - icon: researchgate
   icon_pack: fab
   link: https://www.researchgate.net/profile/Yan-Xiong-2
-- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
-  icon_pack: fas
+- icon: google-scholar # 也可以使用'graduation-cap'  # Alternatively, use `google-scholar` icon from `ai` icon pack
+  icon_pack: ai
   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/YanXiong-UCAS
-- icon: skype
-  icon_pack: fab
-  link: https://www.linkedin.com/in/yan-xiong-364732101/
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/in/yan-xiong-364732101/
+#- icon: skype
+#  icon_pack: fab
+#  link: https://www.linkedin.com/in/yan-xiong-364732101/
+#- icon: linkedin
+#  icon_pack: fab
+#  link: https://www.linkedin.com/in/yan-xiong-364732101/
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
