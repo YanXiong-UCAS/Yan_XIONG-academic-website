@@ -22,19 +22,19 @@ twitter: ''
 
 # email: xiongyan_scholar@yeah.net
 #phone: +41 0792604766
-address:
-  street: No.3888 Dong Nanhu Road
-  city: Changchun
-  region: Jilin
-  postcode: '130033'
-  country: P.R. China
-  country_code: CHN
-coordinates:
-  latitude: '43.85191297342314'
-  longitude: '125.40745052563048'
-directions: Enter Building Daheng and take the stairs to Office 303 on Floor 3
-office_hours:
-  - 'Monday-Fridy 10:00 to 13:00'
+# address:
+  # street: No.3888 Dong Nanhu Road
+  # city: Changchun
+  # region: Jilin
+  # postcode: '130033'
+  # country: P.R. China
+  # country_code: CHN
+# coordinates:
+  # latitude: '43.85191297342314'
+  # longitude: '125.40745052563048'
+# directions: Enter Building Daheng and take the stairs to Office 303 on Floor 3
+# office_hours:
+  # - 'Monday-Fridy 10:00 to 13:00'
 #appointment_url: 'https://calendly.com'
 # contact_links:
   # - icon: twitter
