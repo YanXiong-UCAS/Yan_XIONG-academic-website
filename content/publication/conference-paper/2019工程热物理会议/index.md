@@ -27,16 +27,16 @@ publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
 publication: In *The 14th Space Thermal Physics Conference*
-publication_short: In *2019 STPC*
+publication_short: In *STPC*
 
-abstract: 随着空间望远镜口径的增大，在轨组装望远镜将成为一种发展趋势。现有的热控技术体系尚不能完全满足未来在轨组装望远镜的热控需求。本文结合在轨组装望远镜体积大、模块间存在相互影响、多以日地 L2 点为运行轨道的特点，对两种适用于在轨组装望远镜的热控技术，即大型展开式遮阳罩、基于热总线的模块化柔性热控体系进行了介绍。并对其关键技术进行了分析。在现有基础上构建出面向在轨组装的基于热总线的模块化柔性热控体系模型。
+abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
 
 # Summary. An optional shortened abstract.
-summary: This is a conference paper for the 14th Space Thermal Physics Conference(2019 STPC), and presented as an invited speaker.
+summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-- Publications
-featured: false
+- Source Themes
+featured: true
 
 links:
 - name: Custom Link
