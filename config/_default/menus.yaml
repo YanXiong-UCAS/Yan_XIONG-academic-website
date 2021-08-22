@@ -14,7 +14,7 @@ main:
     url: '#projects'
     weight: 30
   - name: Honors
-    url: '#accomplishments'
+    url: '#honors'
     weight: 40
   - name: Experience
     url: '#experience'
@@ -23,7 +23,7 @@ main:
     url: '#talks'
     weight: 60
   - name: Blogs
-    url: '#posts'
+    url: '#blogs'
     weight: 70
   - name: Contact
     url: '#contact'
