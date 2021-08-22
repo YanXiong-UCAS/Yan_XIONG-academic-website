@@ -43,6 +43,9 @@ tags:
 - Global Sensitivity Analysis
 - Spacecraft Thermal Design
 - Surrogate Model
+- Machine Learning
+- MATLAB
+- NX/TMG
 # Display this page in the Featured widget?
 featured: true
 

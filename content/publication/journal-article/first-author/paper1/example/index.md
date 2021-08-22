@@ -44,6 +44,9 @@ tags:
 - Spacecraft Thermal control
 - Space Telescope
 - PID
+- MATLAB
+- NX/TMG
+- Python
 # Display this page in the Featured widget?
 featured: true
 
