@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Yan XIONG (熊琰)
+title: Yan XIONG 熊琰
 
 # Is this the primary user of the site?
 superuser: true
