@@ -29,7 +29,7 @@ education:
   courses:
   - course: Ph.D. in Mechanical Manufacturing and Automation
     institution: University of Chinese Academy of Sciences
-    url: https://www.ucas.ac.cn/
+    link: https://www.ucas.ac.cn/
     year: 2018 - 2022
   - course: Visiting Ph.D. in Mechanical Manufacturing and Automation
     institution: École Polytechnique Fédérale de Lausanne
