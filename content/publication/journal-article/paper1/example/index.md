@@ -40,7 +40,7 @@ abstract: In this study, a thermal model of a space telescope is established in 
 summary: Journal of Thermophysics and Heat Transfer (JTHT), 2020
 
 tags: []
-- Publications
+
 # Display this page in the Featured widget?
 featured: true
 
