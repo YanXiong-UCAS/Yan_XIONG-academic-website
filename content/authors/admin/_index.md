@@ -11,7 +11,7 @@ role: Ph.D. student from the University of Chinese Academy of Sciences
 # Organizations/Affiliations to show in About widget
 organizations:
 - name: University of Chinese Academy of Sciences
-  url: https://www.ucas.ac.cn/
+  url: https://www.ucas.ac.cn
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include intelligent control of gyroscopes using model-based reinforcement learning, intelligent thermal control based on deep reinforcement learning for space load, and engineering applications of AI, such as robotic systems, spacecraft strategic planning, etc.
@@ -29,7 +29,7 @@ education:
   courses:
   - course: Ph.D. in Mechanical Manufacturing and Automation
     institution: University of Chinese Academy of Sciences
-    url: 'https://www.ucas.ac.cn/'
+    url: https://www.ucas.ac.cn
     year: 2018 - 2022
   - course: Visiting Ph.D. in Mechanical Manufacturing and Automation
     institution: École Polytechnique Fédérale de Lausanne
