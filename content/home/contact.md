@@ -10,7 +10,7 @@ headless: true
 weight: 120
 
 title: Contact
-subtitle:
+subtitle: This form is for contacting me about speaking engagements, opportunities to work together, or mentorship requests. This is NOT a form for requesting help.
 
 content:
   # Automatically link email and phone or display as text?
