@@ -167,3 +167,6 @@ cms:
 icon:
   pack:
     ai: true
+
+footer:
+  show_translations: true
