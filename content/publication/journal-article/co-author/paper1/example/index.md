@@ -1,38 +1,30 @@
 ---
-title: "Thermal control of primary mirror of Space Solar Telescope"
+title: "Global Sensitivity Analysis Based on BP Neural Network for Thermal Design Parameters"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
-- Shuang Yang
-- Changshuai Du
-- Xianwei Yang
-- Chunlong Liu
+- Yuting Yang
+- Liheng Chen
 - admin
-- Richa Hu
-- Xusheng Zhang
-- Yong Huang
-- Liang Guo
+- Shijun Li
+- Xu Meng
 
 
 # Author notes (optional)
 author_notes:
 - "First Author"
-- "Co-Author"
 - "Corresponding author"
-- "Corresponding author"
-- "Co-Author"
-- "Co-Author"
 - "Co-Author"
 - "Co-Author"
 - "Co-Author"
 
-date: "2021-01-13T00:00:00Z"
+date: "2020-12-14T00:00:00Z"
 doi: "10.2514/1.T5774"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2021-01-13T00:00:00Z"
+publishDate: "2020-12-14T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -44,14 +36,17 @@ publication_types: ["2"]
 publication: Journal of Thermophysics and Heat Transfer
 publication_short: In *JTHT*
 
-abstract: The space-based Lyman-alpha Solar Telescope (LST) developed by China will conduct in-depth observation and research on solar activity and internal dynamics of the sun. Thermal control of the primary mirror is the core of the LST and ensures normal and efficient operation of the LST primary mirror. The primary mirror directly receives solar energy. Its element is produced from fused silica, and the multilayer coatings have high heat absorption. The primary mirror is connected with the front of the piezoelectric actuator for high-frequency image stabilization. According to these characteristics, we study the thermal properties of the primary mirror by attaching a high-thermal-conductivity graphite membrane to its back and connecting the annular bracket. We conduct a thermal equilibrium test and finite element network simulation in high-temperature mode, and their results differ by < 1 °C. High- and low-temperature simulations of the primary mirror in orbital operation show that it meets the thermal control target of < 40 °C. Therefore, applying a graphite membrane to the LST primary mirror well meets the needs of thermal control. This provides a theoretical basis for improving the reliability and thermal optimization of the primary mirror.
+abstract: In order to obtain the thermal design parameters that have a great influence on the temperature T of the spectrometer frame, the sensitivity of the thermal design parameters of a balloon-borne spectrometer system was analyzed and calculated by the global sensitivity analysis (GSA) method based on the backpropagation neural network (BPNN) surrogate model. Firstly, the BPNN with 12 selected thermal design parameters as input and temperature T as output was well trained. Then, two kinds of variance-based GSA methods, the Sobol’ method and the extended Fourier amplitude sensitivity test (EFAST), were used to calculate the values and ranking results of sensitivity indices of 12 parameters based on the established BPNN. Moreover, the GSA results were verified based on the finite element model of the balloon-borne spectrometer system built by I-DEAS/TMG (software developed by Structural Dynamics Research Corporation for space thermal analysis), which indicates that the BPNN surrogate-model-based GSA is reliable. Finally, the sensitivity calculation accuracy and speed of two methods, the Spearman rank correlation coefficient formula and the GSA method based on BPNN, were compared, and the EFAST method based on the BPNN surrogate model has been proved to have obvious advantages in the reliability and speed of calculation results. Also, the GSA method based on a surrogate model like BPNN is of great significance in the thermal analysis of an optical remote sensor.
 
 # Summary. An optional shortened abstract.
-summary: Journal of Thermophysics and Heat Transfer (JTHT), 2021
+summary: Journal of Thermophysics and Heat Transfer (JTHT), 2020
 
 tags:
 - Spacecraft Thermal control
 - Space telescope
+- Global Sensitivity Analysis
+- NX/TMG
+- Machine Learning
 # Display this page in the Featured widget?
 featured: false
 
@@ -71,7 +66,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Diagram: [**LST**](featured.jpg)'
+  caption: 'Convergence: [**GSA**](featured.jpg)'
   focal_point: ""
   preview_only: false
 
