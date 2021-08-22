@@ -35,24 +35,24 @@ coordinates:
 directions: Enter Building Daheng and take the stairs to Office 303 on Floor 3
 office_hours:
   - 'Monday-Fridy 10:00 to 13:00'
-appointment_url: 'https://calendly.com'
-contact_links:
-  - icon: twitter
-    icon_pack: fab
-    name: DM Me
-    link: 'https://twitter.com/Twitter'
-  - icon: skype
-    icon_pack: fab
-    name: Skype Me
-    link: 'skype:echo123?call'
-  - icon: keybase
-    icon_pack: fab
-    name: Chat on Keybase
-    link: 'https://keybase.io/'
-  - icon: comments
-    icon_pack: fas
-    name: Discuss on Forum
-    link: 'https://discourse.gohugo.io'
+#appointment_url: 'https://calendly.com'
+# contact_links:
+  # - icon: twitter
+    # icon_pack: fab
+    # name: DM Me
+    # link: 'https://twitter.com/Twitter'
+  # - icon: skype
+    # icon_pack: fab
+    # name: Skype Me
+    # link: 'skype:echo123?call'
+  # - icon: keybase
+    # icon_pack: fab
+    # name: Chat on Keybase
+    # link: 'https://keybase.io/'
+  # - icon: comments
+    # icon_pack: fas
+    # name: Discuss on Forum
+    # link: 'https://discourse.gohugo.io'
 
 # Site header
 
