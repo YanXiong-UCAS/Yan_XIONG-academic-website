@@ -1,5 +1,5 @@
 ---
-title: "Thermal control of primary mirror of Space Solar Telescope"
+title: "Thermal Control of Primary Mirror of Space Solar Telescope"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
