@@ -57,7 +57,7 @@ featured: false
 links:
 #- name: Custom Link
 #  url: http://example.org
-url_pdf: example.pdf
+url_pdf: https://www.researchgate.net/profile/Yan-Xiong-2
 url_code: ''
 url_dataset: ''
 url_poster: ''
