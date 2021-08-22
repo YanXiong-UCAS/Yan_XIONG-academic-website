@@ -50,7 +50,8 @@ abstract: 随着空间望远镜口径的增大，在轨组装望远镜将成为�
 summary: This is a conference paper for the 14th Space Thermal Physics Conference(2019 STPC), and presented as an invited speaker.
 
 tags:
-- Publications
+- Spacecraft Thermal control
+- Orbital Assembled Telescope
 featured: false
 
 links:
