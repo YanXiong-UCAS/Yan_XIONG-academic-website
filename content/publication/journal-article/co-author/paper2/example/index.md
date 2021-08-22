@@ -1,26 +1,22 @@
 ---
-title: "Thermal Control of Primary Mirror of Space Solar Telescope"
+title: "Thermal Design of Ultra-Large Diameter In-Orbit Assembly Infrared Telescope Sunshield"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
-- Shuang Yang
-- Changshuai Du
-- Xianwei Yang
-- Chunlong Liu
-- admin
-- Richa Hu
-- Xusheng Zhang
-- Yong Huang
+- Hongliang Wang
 - Liang Guo
+- admin
+- Boqian Xu
+- Funan Yu
+- Yan Gao
+- Qilong Shi
 
 
 # Author notes (optional)
 author_notes:
 - "First Author"
-- "Co-Author"
-- "Corresponding author"
 - "Corresponding author"
 - "Co-Author"
 - "Co-Author"
@@ -28,11 +24,11 @@ author_notes:
 - "Co-Author"
 - "Co-Author"
 
-date: "2021-01-13T00:00:00Z"
+date: "2019-12-25T00:00:00Z"
 doi: "10.2514/1.T5774"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2021-01-13T00:00:00Z"
+publishDate: "2019-12-25T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -41,17 +37,21 @@ publishDate: "2021-01-13T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: Journal of Thermophysics and Heat Transfer
-publication_short: In *JTHT*
+publication: Infrared and Laser Engineering
+publication_short: In *ILE*
 
-abstract: The space-based Lyman-alpha Solar Telescope (LST) developed by China will conduct in-depth observation and research on solar activity and internal dynamics of the sun. Thermal control of the primary mirror is the core of the LST and ensures normal and efficient operation of the LST primary mirror. The primary mirror directly receives solar energy. Its element is produced from fused silica, and the multilayer coatings have high heat absorption. The primary mirror is connected with the front of the piezoelectric actuator for high-frequency image stabilization. According to these characteristics, we study the thermal properties of the primary mirror by attaching a high-thermal-conductivity graphite membrane to its back and connecting the annular bracket. We conduct a thermal equilibrium test and finite element network simulation in high-temperature mode, and their results differ by < 1 °C. High- and low-temperature simulations of the primary mirror in orbital operation show that it meets the thermal control target of < 40 °C. Therefore, applying a graphite membrane to the LST primary mirror well meets the needs of thermal control. This provides a theoretical basis for improving the reliability and thermal optimization of the primary mirror.
+abstract: Due to the large size and low operating temperature of the ultra-large diameter in-orbit assembly infrared telescope, mutual interference between assembly modules, the traditional thermal control methods cannot fully meet its requirements. In order to meet the proposed thermal design index, the external thermal environment analysis of the SE-L2 orbit was completed, and a five-layer sunshield for the ultra-large diameter in-orbit assembly infrared telescope was designed. The telescope finite element model was established and then simulated with the UG software. The simulation results show that after being shaded by the sunshield, the intensity of the thermal radiation from the sun, which is 1 296 W/m2, reduces to 0.036 W/m2 when it reaches the low temperature area. 210 days after the sunshield is unfolded, the temperature of this kind of telescope reduces to less than 50 K, through passive cooling radiation, meeting the demand of thermal control. This design is a valuable reference on the Chinese future construction of ultra-large space telescope because of the research on its thermal control.
 
 # Summary. An optional shortened abstract.
-summary: Journal of Thermophysics and Heat Transfer (JTHT), 2021
+summary: Infrared and Laser Engineering (ILE), 2019
 
 tags:
-- Spacecraft Thermal control
+- Spacecraft Thermal Design
 - Space telescope
+- NX/TMG
+- In-Orbit Assembly
+- Infrared Telescope
+- SE-L2 orbit 
 # Display this page in the Featured widget?
 featured: false
 
@@ -71,7 +71,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Diagram: [**LST**](featured.jpg)'
+  caption: 'Convergence: [**GSA**](featured.jpg)'
   focal_point: ""
   preview_only: false
 
