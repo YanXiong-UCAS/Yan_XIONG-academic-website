@@ -41,8 +41,11 @@ abstract: The thermal design of spacecraft becomes increasingly complicated as v
 # Summary. An optional shortened abstract.
 summary: An intelligent optimization strategy based on statistical machine learning for spacecraft thermal design, called IOSML, is proposed.
 
-tags: []
-
+tags:
+- Machine Learning
+- Spacecraft Thermal Design
+- Space Telescope
+- Bayesian Optimization
 # Display this page in the Featured widget?
 featured: false
 

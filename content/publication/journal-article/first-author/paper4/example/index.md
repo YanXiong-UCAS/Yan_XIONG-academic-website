@@ -38,8 +38,10 @@ abstract: With the development of deep space exploration technology, thermal con
 # Summary. An optional shortened abstract.
 summary: This paper provided detailed verification of the application of deep reinorcement learning to space telescope thermal control from three perspectives.
 
-tags: []
-
+tags:
+- Spacecraft Thermal Design
+- Deep Reinforcement Learning
+- Space Telescope
 # Display this page in the Featured widget?
 featured: false
 

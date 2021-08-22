@@ -41,8 +41,11 @@ abstract: In practical applications, the control parameters of a proportional in
 # Summary. An optional shortened abstract.
 summary: An intelligent thermal controller based on the deep deterministic policy gradient, called DRLTC, is proposed.
 
-tags: []
-
+tags:
+- Deep Reinforcement Learning
+- Spacecraft Thermal control
+- Space Telescope
+- PID
 # Display this page in the Featured widget?
 featured: false
 

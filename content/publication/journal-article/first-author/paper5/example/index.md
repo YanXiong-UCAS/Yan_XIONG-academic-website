@@ -39,8 +39,10 @@ abstract: The variance-based method of global sensitivity analysis (GSA) has bee
 # Summary. An optional shortened abstract.
 summary: Aerospace Science and Technology (AST), 2021
 
-tags: []
-
+tags:
+- Global Sensitivity Analysis
+- Spacecraft Thermal Design
+- Surrogate Model
 # Display this page in the Featured widget?
 featured: true
 

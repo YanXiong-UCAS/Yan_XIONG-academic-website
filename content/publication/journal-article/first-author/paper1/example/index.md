@@ -42,6 +42,8 @@ summary: Journal of Thermophysics and Heat Transfer (JTHT), 2020
 tags:
 - Reinforcement Learning
 - Spacecraft Thermal control
+- Space Telescope
+- PID
 # Display this page in the Featured widget?
 featured: true
 
