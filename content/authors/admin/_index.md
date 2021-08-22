@@ -18,9 +18,11 @@ bio: My research interests include intelligent control of gyroscopes using model
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Spacecraft Thermal Control
+- Intelligent Control
+- Deep Reinforcement Learning
+- Multi-Agent Systems
+- Engineering Applications of Artificial Intelligence
 
 # Education to show in About widget
 education:
