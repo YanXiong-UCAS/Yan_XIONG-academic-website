@@ -25,7 +25,7 @@ author_notes:
 - "Co-Author"
 
 date: "2019-12-25T00:00:00Z"
-doi: "10.2514/1.T5774"
+doi: "10.3788/IRLA201948.1214001"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2019-12-25T00:00:00Z"

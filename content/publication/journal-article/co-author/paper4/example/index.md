@@ -29,7 +29,7 @@ author_notes:
 - "Co-Author"
 
 date: "2021-01-13T00:00:00Z"
-doi: "10.2514/1.T5774"
+doi: "10.1016/j.ijleo.2021.166290"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2021-01-13T00:00:00Z"

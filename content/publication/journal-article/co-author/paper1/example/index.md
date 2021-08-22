@@ -21,7 +21,7 @@ author_notes:
 - "Co-Author"
 
 date: "2020-12-14T00:00:00Z"
-doi: "10.2514/1.T5774"
+doi: "10.2514/1.T5955"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2020-12-14T00:00:00Z"
