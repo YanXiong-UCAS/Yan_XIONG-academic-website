@@ -7,7 +7,7 @@
 
 theme: minimal
 day_night: true
-font: ''
+font: Classic
 font_size: M
 
 # SEO
@@ -66,7 +66,7 @@ main_menu:
   # Show a language chooser (if you have translated your site content)?
   show_translations: true
   # If `show_translations` is enabled, do you wish to display the current language name?
-  show_language: false
+  show_language: true
   # Let the user override the default light/dark mode of your theme?
   show_day_night: true
   # Let the user search from the nav bar?
