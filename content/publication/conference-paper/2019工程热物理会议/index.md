@@ -1,13 +1,38 @@
 ---
-title: "An example conference paper"
+title: "Research on Thermal Control Technology of Orbital Assembled Telescope"
 authors:
+- Hongliang Wang
+- Liang Guo
 - admin
-- Robert Ford
-date: "2013-07-01T00:00:00Z"
+- Xusheng Zhang
+- Richa Hu
+- Chunlong Liu
+- Yong Huang
+- Liheng Chen
+- Hao Tian
+- Xianwei Yang
+- Zhuohang Jia
+- Meijiao Huang
+# Author notes (optional)
+author_notes:
+- "First Author"
+- "Corresponding author"
+- "Co-Author"
+- "Co-Author"
+- "Co-Author"
+- "Co-Author"
+- "Co-Author"
+- "Co-Author"
+- "Co-Author"
+- "Co-Author"
+- "Co-Author"
+- "Co-Author"
+
+date: "2019-08-22T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2019-08-22T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -16,29 +41,29 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Source Themes Conference*
-publication_short: In *STC*
+publication: In *The 14th Space Thermal Physics Conference*
+publication_short: In *2019 STPC*
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: 随着空间望远镜口径的增大，在轨组装望远镜将成为一种发展趋势。现有的热控技术体系尚不能完全满足未来在轨组装望远镜的热控需求。本文结合在轨组装望远镜体积大、模块间存在相互影响、多以日地 L2 点为运行轨道的特点，对两种适用于在轨组装望远镜的热控技术，即大型展开式遮阳罩、基于热总线的模块化柔性热控体系进行了介绍。并对其关键技术进行了分析。在现有基础上构建出面向在轨组装的基于热总线的模块化柔性热控体系模型。
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: This is a conference paper for the 14th Space Thermal Physics Conference(2019 STPC), and presented as an invited speaker.
 
 tags:
-- Source Themes
-featured: true
+- Publications
+featured: false
 
 links:
 - name: Custom Link
   url: http://example.org
 url_pdf: http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf
-url_code: '#'
-url_dataset: '#'
-url_poster: '#'
+url_code: ''
+url_dataset: ''
+url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: '#'
-url_video: '#'
+url_source: ''
+url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
@@ -53,7 +78,7 @@ image:
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects:
-- internal-project
+- example
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
