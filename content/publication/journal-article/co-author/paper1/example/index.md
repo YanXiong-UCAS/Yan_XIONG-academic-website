@@ -52,7 +52,7 @@ summary: Journal of Thermophysics and Heat Transfer (JTHT), 2021
 tags:
 - Spacecraft Thermal control
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Custom links (uncomment lines below)
 # links:
