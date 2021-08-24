@@ -5,7 +5,7 @@
 
 title: Yan XIONG # Website name
 baseurl: 'https://example.com/' # Website URL
-copyright: '<span style="font-family:arial;">Copyright &copy; </span> ' #'© 2020-2021 Yan XIONG. All rights reserved' # Footer text, e.g. '© {year} Me'
+copyright: <span style="font-family:Classic;">Copyright &copy 2020-2021 Yan XIONG. All rights reserved; </span> #'© 2020-2021 Yan XIONG. All rights reserved' # Footer text, e.g. '© {year} Me'
 
 ############################
 ## LANGUAGE
