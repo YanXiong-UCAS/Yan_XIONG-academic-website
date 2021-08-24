@@ -28,7 +28,7 @@ interests:
 education:
   courses:
   - course: Ph.D. in Mechanical Manufacturing and Automation
-    institution: <a href="https://www.runoob.com/">University of Chinese Academy of Sciences</a>
+    institution: '<a href="https://www.runoob.com/">University of Chinese Academy of Sciences</a>'
     year: 2018 - 2022
   - course: Visiting Ph.D. in Mechanical Manufacturing and Automation
     institution: École Polytechnique Fédérale de Lausanne
